@@ -1,0 +1,1 @@
+import cherrypyclass Root:    pass            app = cherrypy.quickstart( Root(), config = "config.txt" )
